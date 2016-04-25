@@ -2,6 +2,11 @@
 Changelog for package tug_example_actions
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.2 (2016-04-25)
+------------------
+* cleaned changelogs
+* Contributors: Marc Hanheide
+
 0.0.1 (2016-04-25)
 ------------------
 * Add cmake target dependencies of the executable/library to ensure that
