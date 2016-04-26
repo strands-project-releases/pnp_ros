@@ -1,3 +1,34 @@
+## pnp_ros (indigo) - 0.0.6-0
+
+The packages in the `pnp_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo pnp_ros` on `Tue, 26 Apr 2016 13:22:54 -0000`
+
+These packages were released:
+- `jarp`
+- `pnp`
+- `pnp_msgs`
+- `pnp_ros`
+- `pnpgen`
+- `rp_action`
+- `rp_action_msgs`
+- `tug_example_actions`
+- `tug_example_msgs`
+- `tug_example_pnp_server`
+
+Version of package(s) in repository `pnp_ros`:
+- upstream repository: https://github.com/marc-hanheide/PetriNetPlans.git
+- release repository: https://github.com/strands-project-releases/pnp_ros.git
+- rosdistro version: `0.0.5-0`
+- old version: `0.0.5-0`
+- new version: `0.0.6-0`
+
+Versions of tools used:
+- bloom version: `0.5.20`
+- catkin_pkg version: `0.2.10`
+- rosdep version: `0.11.2`
+- rosdistro version: `0.4.2`
+- vcstools version: `0.1.37`
+
+
 ## pnp_ros (indigo) - 0.0.5-0
 
 The packages in the `pnp_ros` repository were released into the `indigo` distro by running `/usr/bin/bloom-release --non-interactive -t indigo -r indigo pnp_ros` on `Tue, 26 Apr 2016 10:27:30 -0000`
