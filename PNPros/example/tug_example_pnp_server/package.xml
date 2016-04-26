@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package>
   <name>tug_example_pnp_server</name>
-  <version>0.0.4</version>
+  <version>0.0.5</version>
   <description>The tug_example_pnp_server package</description>
 
   <!-- One maintainer tag required, multiple allowed, one person per tag --> 
@@ -44,10 +44,13 @@
   <build_depend>roscpp</build_depend>
   <build_depend>pnp_ros</build_depend>
   <build_depend>tug_example_msgs</build_depend>
+  <build_depend>tf</build_depend>
+
   <run_depend>actionlib</run_depend>
   <run_depend>roscpp</run_depend>
   <run_depend>pnp_ros</run_depend>
   <run_depend>tug_example_msgs</run_depend>
+  <run_depend>tf</run_depend>
 
   <!-- The export tag contains other, unspecified, tags -->
   <export>
