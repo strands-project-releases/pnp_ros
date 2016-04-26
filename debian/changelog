@@ -1,0 +1,41 @@
+ros-indigo-rp-action (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 00:00:00 -0000
+
+ros-indigo-rp-action (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 00:00:00 -0000
+
+ros-indigo-rp-action (0.0.2-0trusty) trusty; urgency=high
+
+  * cleaned changelogs
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 25 Apr 2016 00:00:00 -0000
+
+ros-indigo-rp-action (0.0.1-0trusty) trusty; urgency=high
+
+  * made Marc Hanheide maintainer
+  * added required dependencies to make the whole ws build
+  * rp_actions modifications
+  * Merged GUI visualization of plan execution; modified PNPjarp.jar
+  * changed move_base params
+  * small changes
+  * more fixes in pnp_ros
+  * better implementation of rp_action examples; some fixes in pnp_ros
+  * first working example
+  * deleted qtcretor stuff
+  * Added rviz file for hydro
+  * Added rviz file for indigo
+  * Adjusted launch files in rp_action
+  * deleted gedit's auto save files
+  * added porting of rp_action to hydro/indigo
+  * Contributors: Julia Nitsch, Luca Iocchi, Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 25 Apr 2016 00:00:00 -0000
+
+
