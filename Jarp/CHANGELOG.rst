@@ -2,6 +2,11 @@
 Changelog for package jarp
 ^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+0.0.9 (2016-07-20)
+------------------
+* added link to jarp.sh to fit previous file structure
+* Contributors: Marc Hanheide
+
 0.0.8 (2016-07-20)
 ------------------
 * pass args on to java
