@@ -1,0 +1,60 @@
+ros-indigo-jarp (0.0.8-0trusty) trusty; urgency=high
+
+  * pass args on to java
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Wed, 20 Jul 2016 00:00:00 -0000
+
+ros-indigo-jarp (0.0.7-0trusty) trusty; urgency=high
+
+  * removed jarp.properties
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 00:00:00 -0000
+
+ros-indigo-jarp (0.0.6-0trusty) trusty; urgency=high
+
+  * all versions to 0.0.5
+  * made Jarp installable and callable
+  * Contributors: Marc Hanheide
+  * all versions to 0.0.5
+  * made Jarp installable and callable
+  * Contributors: Marc Hanheide
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 00:00:00 -0000
+
+ros-indigo-jarp (0.0.5-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 10:25:00 -0000
+
+ros-indigo-jarp (0.0.4-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 08:06:00 -0000
+
+ros-indigo-jarp (0.0.3-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Tue, 26 Apr 2016 07:10:00 -0000
+
+ros-indigo-jarp (0.0.2-0trusty) trusty; urgency=high
+
+
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 25 Apr 2016 20:48:00 -0000
+
+ros-indigo-jarp (0.0.1-0trusty) trusty; urgency=high
+
+  * modified README and PNPjarp.jar
+  * Merged GUI visualization of plan execution; modified PNPjarp.jar
+  * added jarp file
+  * Added Jarp
+  * Contributors: Luca Iocchi, g-gemignani
+
+ -- Marc Hanheide <marc@hanheide.net>  Mon, 25 Apr 2016 20:41:00 -0000
+
+
